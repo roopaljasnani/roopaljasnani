@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is _Roopal Jasnani_.
+
+Check out my GitHub highlights
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&include_all_commits=true&username=roopaljasnani" />
 
 <!--
 **roopaljasnani/roopaljasnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
