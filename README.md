@@ -13,6 +13,9 @@ Check out my GitHub highlights
 <img height="200em" src="https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&include_all_commits=true&username=roopaljasnani" />
 
 <!--
+
+https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
+
 **roopaljasnani/roopaljasnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
