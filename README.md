@@ -4,6 +4,12 @@ My name is _Roopal Jasnani_.
 
 Check out my GitHub highlights
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roopaljasnani&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="roopaljasnani" /> </p>
+
+![UNIQUE VISITORS](https://githubviews.tolfix.com/?id=roopaljasnani&style=for-the-badge)
+
+![badge](https://kounter.tk/badge/roopaljasnani?label=UNIQUE%20VISITORS&color=333&style=for-the-badge&cntSuffix=%20Views)
+
 <img height="200em" src="https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&include_all_commits=true&username=roopaljasnani" />
 
 <!--
